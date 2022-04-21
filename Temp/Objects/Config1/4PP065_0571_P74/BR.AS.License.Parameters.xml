@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Parameters>
+  <Connection>
+    <DeviceParameters>/IF=tcpip /LOPO=11159 /SA=1</DeviceParameters>
+    <ConnectionParameters>/AM=* /DAIP=10.0.1.10 /REPO=11159 /ANSL=1</ConnectionParameters>
+  </Connection>
+  <AsProject>
+    <ApjFullFileName>C:\Users\admin\Documents\KVBO-07-21\KULEV\prac4\prac4.apj</ApjFullFileName>
+    <ProjectName>prac4</ProjectName>
+    <ActiveConfigurationName>Config1</ActiveConfigurationName>
+    <LicenseDataFolder>C:\Users\admin\Documents\KVBO-07-21\KULEV\prac4\Temp\Objects\Config1\4PP065_0571_P74</LicenseDataFolder>
+  </AsProject>
+  <General>
+    <DeleteParameterFile>false</DeleteParameterFile>
+  </General>
+</Parameters>
